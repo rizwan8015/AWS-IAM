@@ -1,6 +1,6 @@
 ## Lab 1 - Introduction to AWS Identity and Access Management (IAM)
-## NAME : DODLA SUSMITHA
-## REGISTER NO: 212224110016
+## NAME : RIZWAN B
+## REGISTER NO: 212224100051
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
 
